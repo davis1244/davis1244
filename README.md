@@ -1,6 +1,9 @@
-Computer Science Senior at Syracuse University
+# Davis Stapleton
 
-Portfolio site linked below
+**Computer Science Senior at Syracuse University**
 
-- [Portfolio](https://dtstaple.github.io)
-- [LinkedIn](https://www.linkedin.com/in/davisstapleton)
+##  Portfolio
+
+### **[→ Visit My Portfolio](https://dtstaple.github.io)**
+
+* [LinkedIn](https://www.linkedin.com/in/davisstapleton)
